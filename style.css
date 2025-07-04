@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #gamesList, #randomGame, #underdogPick {
+    margin-top: 10px;
+  }
+  
